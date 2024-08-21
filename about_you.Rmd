@@ -1,14 +1,14 @@
 ---
 title: "First Knit"
-author: "Your Name"
+author: "Adrian Cruz"
 output: 
   html_document:
     number_sections: true
     toc: true
     toc_depth: 5
-date: "`r Sys.Date()`"   
+date: "08/20/2024"   
 ---
-
+                    
 # A Little Survey
 
 Here are just a few questions so I can get to know you and so you can get practice submitting an assignment in Canvas.  For each question, insert your answer underneath. Make sure each answer is at the minimum a complete sentence with correctly spelled words and correct puncuation. 
@@ -17,7 +17,8 @@ Here are just a few questions so I can get to know you and so you can get practi
 Where did you attend High School, and did you graduate? Compare english class to math, is one easier for you than the other? Finally which subject did you do the best in? Your answer should have at least two sentences devoted to each question.  
   
 ### my answer     
-  
+ 
+ I attended Rosamond High School and graduated about 2 months ago. I passed with a 4.0 and was top 12 in my class. Yes, I believe math is easier since it has one strict answer while English is more varied and viewed differently from person to person. I did best in math, its pretty simple until I joined Calculus. 
 
      
 
@@ -26,25 +27,28 @@ Where did you attend High School, and did you graduate? Compare english class to
  For this class  you need a computer you can use at home.  So, what kind is it (windows, Apple, Linux)?  On a scale of 1 to 10, where 1 is a total dummy (doesn't know a mouse from a keyboard) and 10 is a complete geek (knows computer stuff in and out) How do you rate yourself?  You also need to have have internet access. How is your connection to the internet where you live?
 
 ### my answer   
-  
+ 
+  I have an Apple Laptop. I recently just got this laptop so im freshly new to this technology but i would say im at least a 7. I've used a laptop before and know the basics but i would love to learn more. Yes, I have internet access at home.
    
 
 ## Others and You?   
 What name do you prefer to be called by your classmates and instructor, if your buddys call you something but you want people in the class to call you something else - what would that be? 
 
 ### my answer     
-  
+ 
+  I would love just to be called my normal name. My first and last name are completely fine to call me by.
    
  
 
-
+  
 
 
 ## Aspirations?   
 What do you want to achieve in life?  What college subject do you think would be of the greatest interest to you? What degree or certificate are you trying to achieve?
 
 ### my answer     
-  
+ 
+  I want to achieve a well paying job just like many others and have the luxury to travel. Psychology would probably be the subject I have the most interest in since I would like to discover more about how the human brain works. I would like to reach my bacholers in the future but for now i would just like to gain my RN status.
    
  
 
@@ -56,6 +60,7 @@ Have you ever gone to foreign countries, if so which ones, if not Where might yo
 
 ### my answer     
   
+  Yes, I most recently went on a Europe trip where i visited various regions such as France and Greece. I would've liked to go into the Navy since my father was in that branch.
    
   
 
@@ -69,7 +74,7 @@ What grade do you need to attain in stats to not upset your future plans, What i
 
 ### my answer     
   
-   
+   No I haven't taken Math 115. I did not know this information. I would like to achieve an A because im planning to go into nursing school through AVC and because of how competitive it is, i would like to get an A in every course i take.
  
 
 
